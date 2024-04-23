@@ -1,3 +1,3 @@
 {
-    "origins": ["https://shellhub-docs.vercel.app"]
+    "origins": ["https://shellhub-docs.vercel.app", "http://localhost:3001"]
 }
